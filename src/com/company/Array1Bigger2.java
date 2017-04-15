@@ -14,10 +14,7 @@ public class Array1Bigger2 {
 
         }
 
-        for (int k = 0; k < b.length; k++) {
-        }
-
-        if(totalA >= totalB) {
+        if (totalA >= totalB) {
             return a;
         }
 
